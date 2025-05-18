@@ -32,3 +32,6 @@ Thumbs.db
 
 # Docker and runtime
 *.pid
+
+#api
+.streamlit/secrets.toml
